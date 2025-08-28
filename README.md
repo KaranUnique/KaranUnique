@@ -42,17 +42,18 @@
 - **Technologies:** React, Node.js, Express.js, MongoDB.
 - **[GitHub Link](https://github.com/KaranUnique/Interview-Prep-Tracker)**
 
-### ⚡ **AI-based Electricity Demand Prediction**
-- An ML-powered system that predicts electricity demand using **Python & AI models**, showcasing my ability to apply data science for practical solutions.
-- **[GitHub Link](https://github.com/KaranUnique/AI-based-Electricity-Demand-Prediction)**
+### ⚡ **Code Migration CLI Tool**
+- A CLI-based automation tool that scans and refactors legacy codes, ensuring a seamless and efficient migration to modern code alternatives.
+- **[GitHub Link](https://github.com/KaranUnique/Code-Migration-CLI-Tool)**
 
-### 🏋️ **Gym E-Commerce & Workout Manual**
-- A full-featured online platform for gym enthusiasts with **e-commerce functionality** and a **digital workout guide**.
-- **[GitHub Link](https://github.com/KaranUnique/Gym-E-Commerce-Workout-Manual)**
+### 📝 **Scribbly Notes App**
+- Scribbly is a modern and intuitive notes application built from the ground up using the MERN (MongoDB, Express.js, React, Node.js) stack.
+- It is designed to provide users with a clean and efficient platform to create, manage, and access their notes from anywhere.
+- **[GitHub Link](https://github.com/KaranUnique/MyNotes)**
 
-### 🏍️ **Bike Booking & Service Website**
-- A dynamic and responsive website for booking bikes and managing services, crafted using **HTML, CSS, and JavaScript**.
-- **[GitHub Link](https://github.com/KaranUnique/Bike-Booking-Service-Website)**
+### 🪙 **CryptoHub: A Real-Time Cryptocurrency Data Tracker**
+- CryptoHub: A dynamic web application that displays real-time cryptocurrency market data and details by integrating with a public API, designed for a clean and intuitive user experience.**.
+- **[GitHub Link](https://github.com/KaranUnique/CryptoHub)**
 
 ---
 
@@ -82,10 +83,10 @@ My toolkit for bringing ideas to life:
 </p>
 
 <p align="left">
-  <a href="https://linkedin.com/in/Karan-Manickam" target="_blank">
+  <a href="https://www.linkedin.com/in/karan2005/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:karanunique36@gmail.com" target="_blank">
+  <a href="mailto:karanmanickam.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://karanunix.me/" target="_blank">
