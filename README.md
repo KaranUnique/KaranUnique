@@ -59,14 +59,14 @@
 - Scribbly is a modern and intuitive notes application built from the ground up using the MERN (MongoDB, Express.js, React, Node.js) stack.  
 - It is designed to provide users with a clean and efficient platform to create, manage, and access their notes from anywhere.  
 - **GitHub:** [MyNotes](https://github.com/KaranUnique/MyNotes)  
-- **Live Demo:** [Scribbly-Notes](https://scribbly-notes.onrender.com/)  
+- **Live Demo:** [View Project](https://scribbly-notes.onrender.com/)  
 
 ---
 
 ### 🪙 **CryptoHub: A Real-Time Cryptocurrency Data Tracker**
 - CryptoHub: A dynamic web application that displays real-time cryptocurrency market data and details by integrating with a public API, designed for a clean and intuitive user experience.  
 - **GitHub:** [CryptoHub](https://github.com/KaranUnique/CryptoHub)  
-- **Live Demo:** [CryptoHub](https://crypto-hub-rosy.vercel.app/)  
+- **Live Demo:** [View Project](https://crypto-hub-rosy.vercel.app/)  
 
 ---
 
