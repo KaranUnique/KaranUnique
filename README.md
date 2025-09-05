@@ -37,25 +37,39 @@
   Dive into some of my recent work! Each project demonstrates my skills and passion for development.
 </p>
 
-### 📚 **Interview Preparation Tracker (MERN Stack)**
-- A comprehensive full-stack application to help developers track their coding progress and practice aptitude questions.
-- **Technologies:** React, Node.js, Express.js, MongoDB.
-- **[GitHub Link](https://github.com/KaranUnique/Interview-Prep-Tracker)**
+# 🚀 Projects Showcase
 
-### ⚡ **Code Migration CLI Tool**
-- A CLI-based automation tool that scans and refactors legacy codes, ensuring a seamless and efficient migration to modern code alternatives.
-- **[GitHub Link](https://github.com/KaranUnique/Code-Migration-CLI-Tool)**
-
-### 📝 **Scribbly Notes App**
-- Scribbly is a modern and intuitive notes application built from the ground up using the MERN (MongoDB, Express.js, React, Node.js) stack.
-- It is designed to provide users with a clean and efficient platform to create, manage, and access their notes from anywhere.
-- **[GitHub Link](https://github.com/KaranUnique/MyNotes)**
-
-### 🪙 **CryptoHub: A Real-Time Cryptocurrency Data Tracker**
-- CryptoHub: A dynamic web application that displays real-time cryptocurrency market data and details by integrating with a public API, designed for a clean and intuitive user experience.**.
-- **[GitHub Link](https://github.com/KaranUnique/CryptoHub)**
+### 📚 **Interview Prep AI (MERN Stack)**
+- A comprehensive full-stack AI-powered platform to streamline interview preparation with role-based questions, aptitude practice, and an integrated AI assistant.  
+- **Technologies:** React, Node.js, Express.js, MongoDB  
+- **GitHub:** [Interview-Prep-AI](https://github.com/KaranUnique/Interview-Prep-AI)  
+- **Live Demo:** [View Project](https://interview-preparation-ai-zu05.onrender.com/)  
 
 ---
+
+### ⚡ **Code Migration CLI Tool**
+- A CLI-based automation tool that scans and refactors legacy codes, ensuring a seamless and efficient migration to modern code alternatives.  
+- **GitHub:** [Code-Migration-CLI-Tool](https://github.com/KaranUnique/Code-Migration-CLI-Tool)  
+- **Live Demo:** Not applicable (CLI-based project).  
+  👉 Instead, check out the **demo video/screenshots** for usage.  
+
+---
+
+### 📝 **Scribbly Notes App**
+- Scribbly is a modern and intuitive notes application built from the ground up using the MERN (MongoDB, Express.js, React, Node.js) stack.  
+- It is designed to provide users with a clean and efficient platform to create, manage, and access their notes from anywhere.  
+- **GitHub:** [MyNotes](https://github.com/KaranUnique/MyNotes)  
+- **Live Demo:** [Scribbly-Notes](https://scribbly-notes.onrender.com/)  
+
+---
+
+### 🪙 **CryptoHub: A Real-Time Cryptocurrency Data Tracker**
+- CryptoHub: A dynamic web application that displays real-time cryptocurrency market data and details by integrating with a public API, designed for a clean and intuitive user experience.  
+- **GitHub:** [CryptoHub](https://github.com/KaranUnique/CryptoHub)  
+- **Live Demo:** [CryptoHub](https://crypto-hub-rosy.vercel.app/)  
+
+---
+
 
 ## 🛠 Tech Stack
 
