@@ -34,7 +34,7 @@
 ## 🚀 Featured Projects
 
 <p align="left">
-  Dive into some of my recent work! Each project demonstrates my skills and passion for development.
+  Dive into some of my recent works! Each project demonstrates my skills and passion for development.
 </p>
 
 # 🚀 Projects Showcase
@@ -52,6 +52,15 @@
 - **GitHub:** [Code-Migration-CLI-Tool](https://github.com/KaranUnique/Code-Migration-CLI-Tool)  
 - **Live Demo:** Not applicable (CLI-based project).  
   👉 Instead, check out the **demo video/screenshots** for usage.  
+
+---
+
+### 🌍 **GreenPath Mobile App**
+- GreenPath is a React Native mobile application that recommends eco-friendly travel routes by integrating **Google Maps Directions, Traffic, and Air Quality APIs**.  
+- It features a custom **eco-score algorithm** to balance pollution levels, traffic congestion, and user health preferences.  
+- **Technologies:** React Native, Express.js, MongoDB, Google Maps API, Air Quality API  
+- **GitHub:** [GreenPath](https://github.com/KaranUnique/GreenPath)  
+- **Live Demo / APK:** [View Project](#)  
 
 ---
 
