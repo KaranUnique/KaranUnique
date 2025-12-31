@@ -25,7 +25,7 @@
 </p>
 
 - 🎓 Pursuing my B.E. in **Computer Science** at KSR Institute of Engineering and Technology.
-- 🛠 Proficient in **React, Node.js, Express.js**, with a strong foundation in **Java and DSA**.
+- 🛠 Proficient in **React, Node.js, Express.js, Java**, with a strong foundation in **Java and DSA**.
 - 🌱 Currently working on a **full-stack MERN project** to enhance my skills.
 - 💡 Passionate about **Full-Stack Development, Problem Solving, and creating impactful solutions**.
 
