@@ -36,6 +36,13 @@ Hello! I'm **Karan**, a final-year **B.E. Computer Science Engineering** student
 
 ---
 
+### 🗂️ pyorganize (Open Source)
+- Lightweight Python library & CLI for organizing files by type  
+- Supports both command-line usage and Python API  
+- 🔗 GitHub: https://github.com/KaranUnique/pyorganize
+- 
+---
+
 ## Programming Languages
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://skillicons.dev/icons?i=js" /> </a> <a href="https://www.typescriptlang.org/docs/" target="_blank"> <img src="https://skillicons.dev/icons?i=typescript" /> </a> <a href="https://www.java.com/en/" target="_blank"> <img src="https://skillicons.dev/icons?i=java" /> </a> <a href="https://www.python.org/doc/" target="_blank"> <img src="https://skillicons.dev/icons?i=python" /> </a> <a href="https://en.cppreference.com/w/c" target="_blank"> <img src="https://skillicons.dev/icons?i=c" /> </a> </p>
 
