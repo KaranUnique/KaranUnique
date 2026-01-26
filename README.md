@@ -40,7 +40,7 @@ Hello! I'm **Karan**, a final-year **B.E. Computer Science Engineering** student
 - Lightweight Python library & CLI for organizing files by type  
 - Supports both command-line usage and Python API  
 - 🔗 GitHub: https://github.com/KaranUnique/pyorganize
-- 
+  
 ---
 
 ## Programming Languages
