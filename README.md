@@ -36,10 +36,13 @@ Hello! I'm **Karan**, a final-year **B.E. Computer Science Engineering** student
 
 ---
 
-### 🗂️ pyorganize (Open Source)
-- Lightweight Python library & CLI for organizing files by type  
-- Supports both command-line usage and Python API  
-- 🔗 GitHub: https://github.com/KaranUnique/pyorganize
+### 🤖 Interview Preparation AI (Open Source)
+
+- AI-powered platform for personalized technical interview preparation
+- Generates role-based interview questions and concept explanations using Gemini and RAG
+- Supports extensible APIs and community contributions
+🔗 GitHub: https://github.com/KaranUnique/Interview-Prep-AI
+🌐 Live: https://interview-preparation-ai-zu05.onrender.com/
   
 ---
 
