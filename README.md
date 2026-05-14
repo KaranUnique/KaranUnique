@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KaranUnique&label=Profile%20views&color=0e75b6&style=flat" />
-  <a href="https://www.linkedin.com/in/karan2005/" target="_blank">
+  <a href="https://www.linkedin.com/in/karanunix/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/KaranUnique" target="_blank">
