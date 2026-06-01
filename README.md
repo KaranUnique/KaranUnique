@@ -36,13 +36,13 @@ Hello! I'm **Karan**, a final-year **B.E. Computer Science Engineering** student
 
 ---
 
-### 🤖 Interview Preparation AI (Open Source)
+### 🤖 PrepPilot AI (Open Source)
 
 - AI-powered platform for personalized technical interview preparation
 - Generates role-based interview questions and concept explanations using Gemini and RAG
 - Supports extensible APIs and community contributions
-- 🔗 GitHub: https://github.com/KaranUnique/Interview-Prep-AI
-- 🌐 Live: https://interview-preparation-ai-zu05.onrender.com/
+- 🔗 GitHub: https://github.com/KaranUnique/PrepPilot
+- 🌐 Live: https://preppilot-12n6.onrender.com/
   
 ---
 
