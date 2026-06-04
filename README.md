@@ -27,22 +27,19 @@ Hello! I'm **Karan**, a final-year **B.E. Computer Science Engineering** student
 - 🌱 Exploring **AI-powered applications & System Design**
 
 ---
-
-### 🪙 CryptoHub (Open Source)
-- Real-time cryptocurrency market tracker  
-- Clean UI + live API integration  
-- 🔗 GitHub: https://github.com/KaranUnique/CryptoHub  
-- 🌐 Live: https://crypto-hub-rosy.vercel.app/
-
----
-
 ### 🤖 PrepPilot AI (Open Source)
 
 - AI-powered platform for personalized technical interview preparation
 - Generates role-based interview questions and concept explanations using Gemini and RAG
 - Supports extensible APIs and community contributions
-- 🔗 GitHub: https://github.com/KaranUnique/PrepPilot
+- 🔗 GitHub: https://github.com/Canopus-Labs/PrepPilot/
 - 🌐 Live: https://preppilot-12n6.onrender.com/
+- 
+### 🪙 CryptoHub (Open Source)
+- Real-time cryptocurrency market tracker  
+- Clean UI + live API integration  
+- 🔗 GitHub: https://github.com/KaranUnique/CryptoHub  
+- 🌐 Live: https://crypto-hub-rosy.vercel.app/
   
 ---
 
